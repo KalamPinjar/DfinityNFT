@@ -24,29 +24,6 @@ http://localhost:8080/
 
 NFT canister id - asrmz-lmaaa-aaaaa-qaaeq-cai
 
-# Minter Else HTML
-
-```
- <div className="minter-container">
-        <h3 className="Typography-root makeStyles-title-99 Typography-h3 form-Typography-gutterBottom">
-          Minted!
-        </h3>
-        <div className="horizontal-center">
-        </div>
-      </div>
-
-```
-
-# Loader HTML
-
-```
-<div className="lds-ellipsis">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-```
 
 # Creating NFT for Testing
 
@@ -75,11 +52,12 @@ dfx canister call gl6nx-5maaa-aaaaa-qaaqq-cai transferOwnership '(principal "bd3
 ```
 
 # Conneting to the Token Canister
+1.Go over to my Other Repo - Token-KAR
 
-1. Copy over the token declarations folder
+2. Copy over the token-local-new-backend declarations folder
 
 2. Set the token canister id into the <REPLACE WITH TOKEN CANISTER ID>
 
 ```
-const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
+const KARPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
