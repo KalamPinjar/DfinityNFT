@@ -1,4 +1,4 @@
-## DfinityNFT
+# DfinityNFT
 
 DfinityNFT is an NFT marketplace built using the Internet Computer blockchain technology. Users can buy, sell, and trade NFTs using our proprietary KAR cryptocurrency. The project leverages React for the frontend and Motoko for the backend.
 
@@ -8,21 +8,21 @@ DfinityNFT is an NFT marketplace built using the Internet Computer blockchain te
 DfinityNFT provides a decentralized marketplace where users can interact with non-fungible tokens (NFTs) using KAR cryptocurrency. The project integrates seamlessly with the Internet Computer blockchain to ensure high security, transparency, and immutability.
 
 # Features
- -Decentralized NFT marketplace
--Proprietary KAR cryptocurrency
--User-friendly interface built with React
--Robust backend developed with Motoko
--Secure wallet integration
--Community engagement features
+  + Decentralized NFT marketplace
+  + Proprietary KAR cryptocurrency
+  + User-friendly interface built with React
+  + Robust backend developed with Motoko
+  + Secure wallet integration
+  + Community engagement features
 
 # Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
--Node.js: Install Node.js and npm from nodejs.org
--DFINITY SDK: Follow the installation guide at DFINITY SDK
--Visual Studio Code (VSCode): Install VSCode
--WSL (Windows Subsystem for Linux): Enable and install WSL if you are on Windows. Follow the guide here.
+  + Node.js: Install Node.js and npm from nodejs.org
+  + DFINITY SDK: Follow the installation guide at DFINITY SDK
+  + Visual Studio Code (VSCode): Install VSCode
+  + WSL (Windows Subsystem for Linux): Enable and install WSL if you are on Windows. Follow the guide here.
 
 # To Install and Run the Project
 
